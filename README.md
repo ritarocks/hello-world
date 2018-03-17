@@ -1,3 +1,3 @@
 # hello-world
-My first attempt 
 Pineapples are good!
+Just joking: only apples are. 
